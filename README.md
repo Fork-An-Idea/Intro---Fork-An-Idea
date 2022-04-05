@@ -8,5 +8,4 @@ The Internet allows us to share thoughts and ideas. What if someone, has a great
 
 Share your Ideas, contribute valuable content to Ideas, Fork an Idea and develop it differently while maintaining it's initial concept. The possibilities are endless when people from around the world work together.
 
-Become the Catalyst.
 --
