@@ -19,4 +19,6 @@ A Github account is needed to join.
 
 # Let's Get Started / How to Use
 
-To post a new Idea, you must click New Repo
+1) Become a Member by posting in the Discussion above or scanning QR code to access the page.
+2) To post a new Idea, you must click New from the [main page](https://github.com/Fork-An-Idea). All ideas are Public.
+ 
