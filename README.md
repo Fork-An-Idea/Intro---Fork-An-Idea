@@ -12,6 +12,6 @@ Don't let your great idea go to waste because you don't have a platform to share
 
 **Invites are required to join, post a message in the [Discussions]**(https://github.com/Fork-An-Idea/What-is-Fork-An-Idea/discussions/2) or scan th QR code below to get access to the invite page.
 
-A Github account is all that is needed to join.
+A Github account is needed to join.
 
 ![qrcode_github com](https://user-images.githubusercontent.com/52546326/212336111-a3d33340-093f-49e7-80d0-889cda8039a9.png)
