@@ -10,7 +10,7 @@ We believe that every idea, big or small, has value and should be shared, analyz
 Don't let your great idea go to waste because you don't have a platform to share it. Join Fork An Idea and share your ideas, contribute valuable insights and collaborate with others to bring your idea to life. Let's make a difference together.
 
 
-**Invites are required to join, post a message in the [Discussions]**(https://github.com/Fork-An-Idea/What-is-Fork-An-Idea/discussions/2) or scan th QR code below to get access to the invite page.
+**Invites are required to join, post a message in the [Discussions](https://github.com/Fork-An-Idea/What-is-Fork-An-Idea/discussions/2)** or scan th QR code below to get access to the invite page.
 
 A Github account is needed to join.
 
