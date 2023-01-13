@@ -17,4 +17,5 @@ A Github account is needed to join.
 ![qrcode_github com](https://user-images.githubusercontent.com/52546326/212336111-a3d33340-093f-49e7-80d0-889cda8039a9.png)
 
 
-# ** Let's Get Started **
+# Let's Get Started / How to Use
+
