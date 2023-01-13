@@ -19,6 +19,6 @@ A Github account is needed to join.
 
 # Let's Get Started / How to Use
 
-1) Become a Member by posting in the Discussion above or scanning QR code to access the page.
+1) Become a Member by posting in the [Discussion](https://github.com/Fork-An-Idea/What-is-Fork-An-Idea/discussions/2) or scanning QR code to access the page.
 2) To post a new Idea, you must click New from the [main page](https://github.com/Fork-An-Idea). All ideas are Public.
  
