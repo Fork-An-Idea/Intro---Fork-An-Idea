@@ -19,3 +19,4 @@ A Github account is needed to join.
 
 # Let's Get Started / How to Use
 
+To post a new Idea, you must click New Repo
